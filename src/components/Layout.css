@@ -1,0 +1,23 @@
+header {
+  background-color: #23282cef;
+  padding: 1rem;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: bold;
+}
+header nav a.active {
+  color: #61dafb;
+  text-decoration: underline;
+}
+.content {
+  padding: 20px;
+  min-height: 70vh;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #f1f1f1;
+}
